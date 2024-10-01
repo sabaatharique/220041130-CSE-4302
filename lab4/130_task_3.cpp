@@ -128,7 +128,10 @@ int main()
     BankAccount acc1(100);
     acc1.showBankDetails();
     acc1.setBankDetails(3423, "SABA ATHARIQUE", true, 2390);
+    acc1.giveInterest();
     acc1.showBankDetails();
+
+    display_stat();
 
     return 0;
 }

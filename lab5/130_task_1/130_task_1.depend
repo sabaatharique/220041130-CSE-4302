@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1727675338 source:c:\users\user\desktop\new folder\130_task_1\main.cpp
+	<iostream>
+	"savingsaccount.h"
+
+1727675255 c:\users\user\desktop\new folder\130_task_1\savingsaccount.h
+	<iostream>
+
+1727798237 source:c:\users\user\desktop\220041130-cse-4302\lab5\130_task_1\main.cpp
+	<iostream>
+	<ctime>
+	<cstring>
+	"savingsaccount.h"
+
+1727796053 c:\users\user\desktop\220041130-cse-4302\lab5\130_task_1\savingsaccount.h
+	<iostream>
+
+1727792357 source:c:\users\user\desktop\220041130-cse-4302\lab5\130_task_1\savingsaccount.cpp
+	"savingsaccount.h"
+
