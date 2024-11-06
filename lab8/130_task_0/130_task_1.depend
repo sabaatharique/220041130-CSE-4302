@@ -1,0 +1,88 @@
+# depslib dependency file v1.0
+1730888703 source:c:\users\user\desktop\220041130-cse-4302\lab8\130_task_1\main.cpp
+	<iostream>
+	<branch.h>
+
+1730889019 c:\users\user\desktop\220041130-cse-4302\lab8\130_task_1\include\branch.h
+	<iostream>
+	<motorcycles.h>
+	<car.h>
+	<truck.h>
+	<electricvehicle.h>
+	<hybridvehicle.h>
+	<manager.h>
+	<driver.h>
+
+1730888861 c:\users\user\desktop\220041130-cse-4302\lab8\130_task_1\include\motorcycles.h
+	<iostream>
+	<gasolinevehicle.h>
+
+1730888841 c:\users\user\desktop\220041130-cse-4302\lab8\130_task_1\include\gasolinevehicle.h
+	<iostream>
+	<vehicle.h>
+
+1730888871 c:\users\user\desktop\220041130-cse-4302\lab8\130_task_1\include\vehicle.h
+	<iostream>
+
+1730888819 c:\users\user\desktop\220041130-cse-4302\lab8\130_task_1\include\car.h
+	<iostream>
+	<gasolinevehicle.h>
+
+1730888866 c:\users\user\desktop\220041130-cse-4302\lab8\130_task_1\include\truck.h
+	<iostream>
+	<gasolinevehicle.h>
+
+1730888828 c:\users\user\desktop\220041130-cse-4302\lab8\130_task_1\include\electricvehicle.h
+	<iostream>
+	<vehicle.h>
+
+1730888848 c:\users\user\desktop\220041130-cse-4302\lab8\130_task_1\include\hybridvehicle.h
+	<iostream>
+	<gasolinevehicle.h>
+	<electricvehicle.h>
+
+1730888853 c:\users\user\desktop\220041130-cse-4302\lab8\130_task_1\include\manager.h
+	<iostream>
+	<employee.h>
+
+1730888908 c:\users\user\desktop\220041130-cse-4302\lab8\130_task_1\include\employee.h
+	<iostream>
+
+1730888824 c:\users\user\desktop\220041130-cse-4302\lab8\130_task_1\include\driver.h
+	<iostream>
+	<employee.h>
+
+1730888886 source:c:\users\user\desktop\220041130-cse-4302\lab8\130_task_1\src\car.cpp
+	"car.h"
+
+1730888766 source:c:\users\user\desktop\220041130-cse-4302\lab8\130_task_1\src\driver.cpp
+	"driver.h"
+	<iostream>
+
+1730886681 source:c:\users\user\desktop\220041130-cse-4302\lab8\130_task_1\src\electricvehicle.cpp
+	"electricvehicle.h"
+
+1730887742 source:c:\users\user\desktop\220041130-cse-4302\lab8\130_task_1\src\employee.cpp
+	"employee.h"
+
+1730696419 source:c:\users\user\desktop\220041130-cse-4302\lab8\130_task_1\src\gasolinevehicle.cpp
+	"gasolinevehicle.h"
+
+1730887318 source:c:\users\user\desktop\220041130-cse-4302\lab8\130_task_1\src\hybridvehicle.cpp
+	"hybridvehicle.h"
+
+1730887824 source:c:\users\user\desktop\220041130-cse-4302\lab8\130_task_1\src\manager.cpp
+	"manager.h"
+
+1730886768 source:c:\users\user\desktop\220041130-cse-4302\lab8\130_task_1\src\motorcycles.cpp
+	"motorcycles.h"
+
+1730887066 source:c:\users\user\desktop\220041130-cse-4302\lab8\130_task_1\src\truck.cpp
+	"truck.h"
+
+1730696030 source:c:\users\user\desktop\220041130-cse-4302\lab8\130_task_1\src\vehicle.cpp
+	"vehicle.h"
+
+1730889040 source:c:\users\user\desktop\220041130-cse-4302\lab8\130_task_1\src\branch.cpp
+	"branch.h"
+

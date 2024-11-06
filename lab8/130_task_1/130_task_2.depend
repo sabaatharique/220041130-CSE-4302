@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1730701576 source:c:\users\user\desktop\220041130-cse-4302\lab8\130_task_2\main.cpp
+	<iostream>
+	"cat.h"
+
+1730700250 source:c:\users\user\desktop\220041130-cse-4302\lab8\130_task_2\src\animal.cpp
+	"animal.h"
+
+1730700287 c:\users\user\desktop\220041130-cse-4302\lab8\130_task_2\include\animal.h
+	<iostream>
+
+1730700099 c:\users\user\desktop\220041130-cse-4302\lab8\130_task_2\include\cow.h
+	<animal.h>
+
+1730700391 source:c:\users\user\desktop\220041130-cse-4302\lab8\130_task_2\src\cow.cpp
+	"cow.h"
+
+1730701012 c:\users\user\desktop\220041130-cse-4302\lab8\130_task_2\include\chicken.h
+	<animal.h>
+
+1730701000 source:c:\users\user\desktop\220041130-cse-4302\lab8\130_task_2\src\chicken.cpp
+	"chicken.h"
+
+1730701535 c:\users\user\desktop\220041130-cse-4302\lab8\130_task_2\include\cat.h
+	<animal.h>
+
+1730701550 source:c:\users\user\desktop\220041130-cse-4302\lab8\130_task_2\src\cat.cpp
+	"cat.h"
+
+1730701474 source:c:\users\user\desktop\220041130-cse-4302\lab8\130_task_2\src\petcat.cpp
+	"petcat.h"
+
+1730701578 c:\users\user\desktop\220041130-cse-4302\lab8\130_task_2\include\petcat.h
+	<cat.h>
+
